@@ -31,10 +31,9 @@ var myQuestions = [
     
 // Getting the result display section
 var result = document.getElementsByClassName(".result");
-    result[0].innerText = "";
+    result.innerText = "";
 // // Getting the question and setting the question
 var question = document.getElementById("question");
-    question.innerText = myQuestions[id].question;
 var startButton = document.getElementById("start-button");
 var timerElement = document.querySelector(".timer-count");
 var timerCount = 60;
