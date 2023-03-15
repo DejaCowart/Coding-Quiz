@@ -31,4 +31,4 @@ THEN I can save my initials and my score
 <img src="assets/codingquiz.png"></img>
 
 # Deployed Page
-The webpage has been deployed at: https://dejacowart.github.io/Work-Day-Scheduler/
+The webpage has been deployed at:  https://dejacowart.github.io/Coding-Quiz/
