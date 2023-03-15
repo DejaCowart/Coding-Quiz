@@ -1,4 +1,4 @@
-# Spongebob-Quiz
+# Coding Quiz
 
 ## Creating a functional code quiz
 
