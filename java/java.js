@@ -1,32 +1,32 @@
 var myQuestions = [
     {
             id:0,
-            question: "Who is identified as the lone land animal in Bikini Bottom?",
-            option:["Spongebob","Patrick","Sandy"],
-            answer:"Sandy"
+            question: "Commonly used Data Types do not include",
+            option:["Strings","Booleans","Alerts","Numbers"],
+            answer:""
     },
     {
         id:2,
-        question: "What shirt color does SpongeBob usually wear?",
-        option:["Blue","White","Brown"],
-        answer:"White"
+        question: "A very useful tool used during development and debugging for printing contentto the debugger is:",
+        option:["JavaScript","Terminal/Bash","For Loops","Console.log"],
+        answer:"Console.log"
     },
     {
         id:3,
-        question: "Who has a wife named Karen?",
-        option:["Mr.Krabs","Squidward","Plankton"],
-        answer:"Plankton"
+        question: "String values must be enclosed within ___ when being assigned to variables.",
+        option:["Commas","Curly Brackets","Quotes","Parenthesis"],
+        answer:"Quotes"
     },
     {
         id:4,
-        question: "What color are Spongebob's eyes?",
-        option:["Green","Blue","Brown"],
-        answer:"Blue"
+        question: "Arrays in JavaScript can be used to store ____.",
+        option:["Numbers and Strings","Other Arrays","Booleans","All of the above"],
+        answer:""
     },{
     id:5,
-    question: "In the SpongeBob SquarePants movie, what do SpongeBob and Patrick use to drown their sorrows?",
-    option:["Ice-Cream","Jelly-Fishing","Bubble-blowing"],
-    answer:"Ice-Cream"
+    question: "The condition in an if/else statement is enclosed with ____.",
+    option:["Quotes","Curly Brackets","Parenthesis","Square Brackets"],
+    answer:""
 },]
     
 // Getting the result display section
